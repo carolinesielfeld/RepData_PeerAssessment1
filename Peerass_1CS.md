@@ -1,7 +1,7 @@
 # Peer Assesment 1 (Reproducible Research)
 Caroline Sielfeld  
 14 de diciembre de 2014  
-##Loading and preprocessing the data
+#Loading and preprocessing the data
 
 First, we load the data, and we transform the dates to "date-form":
 

@@ -2,11 +2,11 @@
 title: "Peer Assesment 1 (Reproducible Research)"
 author: "Caroline Sielfeld"
 date: "14 de diciembre de 2014"
-output:  
-     html_document:  
-       keep_md: true 
+output: 
+  html_document:
+    keep_md: true    
 ---
-##Loading and preprocessing the data
+#Loading and preprocessing the data
 
 First, we load the data, and we transform the dates to "date-form":
 ```{r}
